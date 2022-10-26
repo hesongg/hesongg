@@ -33,13 +33,13 @@
 - (인프런) 실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발
 - (인프런) 실전! 스프링부트와 JPA 활용2 - API 개발과 성능 최적화
 - (인프런) 실전! 스프링 데이터 JPA
+- (인프런) 실전! Querydsl
 
 </details>
 
 <details>
   <summary><strong>TODO</strong></summary>
 
-- (인프런) 실전! Querydsl
 - (udemy) Master Microservices with Spring Boot and Spring Cloud
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발
 - Effective Java 3/E
