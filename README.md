@@ -34,13 +34,15 @@
 - (인프런) 실전! 스프링부트와 JPA 활용2 - API 개발과 성능 최적화
 - (인프런) 실전! 스프링 데이터 JPA
 - (인프런) 실전! Querydsl
+- (인프런) Spring Boot를 이용한 RESTful Web Services 개발
+- (인프런) 타입스크립트 입문 - 기초부터 실전까지
 
 </details>
 
 <details>
   <summary><strong>TODO</strong></summary>
 
-- (udemy) Master Microservices with Spring Boot and Spring Cloud
+- (인프런) Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발
 - Effective Java 3/E
 - Clean Code
