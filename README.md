@@ -37,17 +37,21 @@
 - (인프런) 실전! Querydsl
 - (인프런) Spring Boot를 이용한 RESTful Web Services 개발
 - (인프런) 타입스크립트 입문 - 기초부터 실전까지
+- (인프런) Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
 
 </details>
 
 <details>
   <summary><strong>TODO</strong></summary>
-
-- (인프런) Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
+- Effective Java 3/E (이펙티브 자바 완벽 공략 강의)
 - 도메인 주도 설계로 시작하는 마이크로서비스 개발
-- Effective Java 3/E
+<!--
+- DDD
+- TDD
+- 데이터 아키텍쳐
 - Clean Code
 - 토비의 스프링 3.1
+-->
 	
 </details>
 
