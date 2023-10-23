@@ -18,7 +18,7 @@
 -->
 
 <details>
-  <summary><strong>2022</strong></summary>
+  <summary><strong>Study</strong></summary>
 
 - Modern Java In Action
 - 함께 자라기
