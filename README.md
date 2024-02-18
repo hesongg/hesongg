@@ -1,6 +1,5 @@
 ### Backend Engineer
 
-###
 <!--
 ### Skill
 
@@ -17,6 +16,7 @@
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?&style=flat&logo=JUnit5&logoColor=white)
 -->
 
+<!--
 <details>
   <summary><strong>Study</strong></summary>
 
@@ -40,7 +40,8 @@
 - (인프런) Spring Cloud로 개발하는 마이크로서비스 애플리케이션(MSA)
 
 </details>
-
+-->
+<!--
 <details>
   <summary><strong>TODO</strong></summary>
 - Effective Java 3/E (이펙티브 자바 완벽 공략 강의)
@@ -51,9 +52,10 @@
 - 데이터 아키텍쳐
 - Clean Code
 - 토비의 스프링 3.1
--->
+
 	
 </details>
+-->
 
 <!--
 **hesongg/hesongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
